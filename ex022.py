@@ -1,0 +1,7 @@
+sentence = str(input('write your completely name:')).strip()
+upper = sentence.upper()
+lower = sentence.lower()
+count1 = len(sentence)-sentence.count(' ')
+#count2 = sentence.find(' ')
+count2 = sentence.split()
+print('Analysing your name...\n Your name in upper letter is {} \n Your name in lower letter is {} \n Your name have {} letters \n Your first name have {} lettes'.format(upper,lower,count1,len(count2[0])))

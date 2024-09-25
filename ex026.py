@@ -1,0 +1,5 @@
+s = str(input('Write Anything: ')).strip().lower()
+print('Analysing your sentence...'   )
+print('Your sentence have {} letters A'.format(s.count('a')))
+print('The first letter A in you sentence is letter {}'.format(s.find('a')+1))
+print('The last letter A in you sentence is in case number {}'.format(s.rfind('a')+1))
