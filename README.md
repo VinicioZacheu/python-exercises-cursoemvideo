@@ -1,6 +1,6 @@
 # Python Exercises from Curso em Vídeo
 
-This repository contains exercises I have completed during the **Python 3** course series from *Curso em Vídeo*, led by a well-known teacher in Brazil, Gustavo Guanabara, and recognized by government authorities. 
+This repository contains exercises I have completed during the **Python 3**, **Python 2** and **Python 1** course series from *Curso em Vídeo*, led by a well-known teacher in Brazil, Gustavo Guanabara, and recognized by government authorities. 
 
 ## Courses Completed:
 
@@ -8,7 +8,7 @@ This repository contains exercises I have completed during the **Python 3** cour
 - **PYTHON 3 - MUNDO 2** (40 hours)
 - **PYTHON 3 - MUNDO 3** (40 hours)
 
-Each course covered a range of Python programming concepts, and I successfully completed all activities and assessments with a grade exceeding 70%.
+Each course covered a range of Python programming concepts, and I successfully completed all activities and assessments with a grade exceeding 90%.
 
 ### Certification Details:
 
